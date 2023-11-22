@@ -1,0 +1,13 @@
+.contenedor-general-canales{
+    background-image: url(../Imagenes/ImagenCanales.webp);
+    border: 3px solid black;
+    background-size: cover;
+    background-position: center center; 
+    width: 100vw;
+    height: 100vh;
+}
+
+.contenedorNavagacionTexto{
+    background-color: aqua;
+    height: 150px;
+}

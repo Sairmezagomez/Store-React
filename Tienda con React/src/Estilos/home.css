@@ -1,0 +1,18 @@
+.contenedorGeneral{
+    background-image: url(../Imagenes/imagenHome.png);
+    border: 3px solid black;
+    background-size: cover;
+    background-position: center center; 
+    width: 100vw;
+    height: 100vh;
+   
+    
+}
+
+.navegacionTexto{
+    background-color: aqua;
+}
+
+.textoHome{
+    margin-left: 10px;
+}
